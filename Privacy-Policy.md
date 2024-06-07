@@ -1,8 +1,8 @@
 # TUNE_X Bot Privacy Policy
 
-**Effective: June 4, 2024**
+**Effective: June 3, 2024**
 
-**Last Updated: June 4, 2024**
+**Last Updated: June 7, 2024**
 
 Secured Bot is committed to protecting your privacy. This policy explains how we collect, use, and share your personal information.
 
