@@ -1,4 +1,4 @@
-# TUNE_X Bot Privacy Policy
+#  Privacy Policy
 
 **Effective: June 3, 2024**
 
