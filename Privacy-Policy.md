@@ -4,7 +4,7 @@
 
 **Last Updated: June 7, 2024**
 
-Secured Bot is committed to protecting your privacy. This policy explains how we collect, use, and share your personal information.
+Bot is committed to protecting your privacy. This policy explains how we collect, use, and share your personal information.
 
 **Information We Collect:**
 
@@ -33,4 +33,4 @@ Secured Bot is committed to protecting your privacy. This policy explains how we
 * You can control your privacy settings through our bot's features.
 * You can request to delete your information at any time.
 
-By using TUNE_X Bot, you agree to this privacy policy. If you have any questions or concerns, please contact us.
+By using Bot, you agree to this privacy policy. If you have any questions or concerns, please contact us.
