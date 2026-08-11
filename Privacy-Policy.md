@@ -1,8 +1,8 @@
 #  Privacy Policy
 
-**Effective: June 3, 2024**
+**Effective: August 11, 2026**
 
-**Last Updated: June 7, 2024**
+**Last Updated: August 11, 2026**
 
 Bot is committed to protecting your privacy. This policy explains how we collect, use, and share your personal information.
 
